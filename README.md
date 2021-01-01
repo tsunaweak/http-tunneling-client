@@ -22,5 +22,5 @@ SSL Tunnleing
 ./http-tunnel-client-win -lp 8228 -sni "google.com"  -tunType "SSL"
 
 Note:
-Change the -rp value to your desired remote proxy server
+Change the -rp value to your desired remote proxy server </br>
 Change the -lp value to your desired local proxy port 
